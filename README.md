@@ -45,7 +45,7 @@ Make sure the following tools are installed:
   Launch VS Code
 
 3. Go to File > Open Folder
-  Select the folder where your .java files are located
+  Select the folder where your .java file is located
 
 **▶️ Run the Program**
 
