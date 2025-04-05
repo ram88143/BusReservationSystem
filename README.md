@@ -15,16 +15,7 @@ A simple Java-based Bus Reservation System that allows users to manage buses and
 - Java (Core Java)
 - Console I/O
 
-## 📁 Project Structure
 
-BusReservationSystem/
-├── BusReservationSystem.java      # Main class containing the program's entry point and user interface logic
-├── Bus.java                       # Defines the Bus object, including seat information and routes
-├── Customer.java                  # Defines the Customer object, holding passenger details
-├── BusManager.java                # Manages bus-related operations like adding or retrieving buses
-├── CustomerManager.java           # Manages customer data and booking logic
-├── helloworld                     # (Optional file - seems unused, might be a test file)
-├── *.class                        # Compiled Java bytecode files generated after compilation
 
 
 
