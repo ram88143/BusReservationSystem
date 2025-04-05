@@ -28,18 +28,42 @@ BusReservationSystem/
 
 
 
-## 🔧 How to Run
+##🚀 How to Run This Project in VS Code
+Follow these steps to set up and run the Bus Reservation System project in Visual Studio Code:
 
-1. **Clone or Download** the project.
+**✅ Prerequisites**
+Make sure the following tools are installed:
 
-2. **Compile the Java files**:
-   
-   javac BusReservationSystem.java
+1. Java JDK (17 or later)
+   Download: https://adoptium.net
 
-4. **Run the main program**:
+2. Visual Studio Code
+   Download: https://code.visualstudio.com
 
-   java BusReservationSystem
+3. Java Extension Pack (VS Code Extension)
+   In VS Code, press Ctrl + Shift + X, then search and install:
+   Java Extension Pack by Microsof
 
+**📁 Project Setup**
+1. Download or Clone the Project
+
+  git clone https://github.com/ram88143/your-repo-name.git
+
+2. Open the Project in VS Code
+
+  Launch VS Code
+
+3. Go to File > Open Folder
+  Select the folder where your .java files are located
+
+**▶️ Run the Program**
+
+1. Open BusReservationSystem.java in the editor.
+
+2. Hover over the main method or click the small ▶️ Run icon above it.
+
+3. OR right-click anywhere in the file and choose Run Java.
+   This will compile and run the program in the integrated terminal.
 
 
 
